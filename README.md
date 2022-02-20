@@ -1,4 +1,4 @@
-# Map Your Workouts
+# Map Your Workouts 💪
 
 
 A frontend application that interacts with the Leaflet library and displays a Map. The user can add workouts for running and cycling.
